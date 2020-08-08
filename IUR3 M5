@@ -1,0 +1,37 @@
+{
+  "loopMediaList": false,
+  "mediaList": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/nicbarone/AltspaceMRE-Slides/master/Screenshot%20(184).png",
+      "skipAfter": 1000
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/nicbarone/AltspaceMRE-Slides/master/Screenshot%20(185).png",
+      "skipAfter": 1000
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/nicbarone/AltspaceMRE-Slides/master/Screenshot%20(186).png",
+      "skipAfter": 1000
+    },
+    {
+      "videoUrl": "https://www.youtube.com/watch?v=eDRA4Zehxwo",
+      "skipAfter": 1000,
+      "volume": 1,
+      "startTime": 0,
+      "rolloffStartDistance": 11111111,
+      "endOfVideoAction": "stop"
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/nicbarone/AltspaceMRE-Slides/master/Screenshot%20(186).png",
+      "skipAfter": 10000
+    },
+    {
+      "videoUrl": "https://www.youtube.com/watch?v=xLR1-Rxit7M",
+      "skipAfter": 10000,
+      "volume": 1,
+      "startTime": 0,
+      "rolloffStartDistance": 10000,
+      "endOfVideoAction": "stop"
+    }
+  ]
+}
